@@ -1,6 +1,8 @@
 # Nike Shoe Store
 
 This project is a frontend application for a Nike shoe store, built using Vite, React, and Tailwind CSS.
+![Screenshot 2024-06-01 153253](https://github.com/Sai-Manikanta-Andey/React-Tailwind-Nike-Shoe-Store/assets/87435743/77fa9933-318f-4862-ae4c-483e593a3f18)
+
 
 ## Table of Contents
 
