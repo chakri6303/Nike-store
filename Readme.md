@@ -42,7 +42,7 @@ The Nike Shoe Store project is a modern and responsive web application that show
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/Sai-Manikanta-Andey/React-Tailwind-Nike-Shoe-Store.git
+   git clone https://github.com/chakri6303/Nike-store.git
 
 2. Navigate to the project directory and install node modules:
 
