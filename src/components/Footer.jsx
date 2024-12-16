@@ -31,7 +31,7 @@ const Footer = ({ footerAPI: { titles, links } }) => {
           <div className="mt-5 text-center">
             <p className="text-sm md:text-center">
               Copyright&copy; All Rights Reserved  
-              <span className="font-semibold"> Sai Manikanta Andey {Year}</span>
+              <span className="font-semibold"> Rama Krishna {Year}</span>
             </p>
           </div>
         </div>
